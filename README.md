@@ -1,14 +1,22 @@
-### Hi there 👋
+# Hi, I'm Anton 😜
+
+I'm a full-stack software engineer working on enterprise systems. In my spare time, I like to study and work on graphically interesting stuff.
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
       <tr>
         <th>
-          <strong><a href="https://memorya.vercel.app">Memorya</a></strong>
+          <strong>
+            <a href="https://memorya.vercel.app">Memorya</a>
+            <em>(<a href="https://github.com/atamocius/memorya">source</a>)</em>
+          </strong>
         </th>
         <th>
-          <strong><a href="https://burgergurgler.vercel.app">burgerGURGLER</a></strong>
+          <strong>
+            <a href="https://burgergurgler.vercel.app">burgerGURGLER</a>
+            <em>(<a href="https://github.com/atamocius/burger-gurgler">source</a>)</em>
+          </strong>
         </th>
       </tr>
     </thead>
@@ -40,10 +48,16 @@
     <thead>
       <tr>
         <th>
-          <strong><a href="https://github.com/atamocius/flutterstein-3d">Flutterstein 3D</a></strong>
+          <strong>
+            Flutterstein 3D
+            <em>(<a href="https://github.com/atamocius/flutterstein-3d">source</a>)</em>
+          </strong>
         </th>
         <th>
-          <strong><a href="https://synthrogue.netlify.com">Synthrogue</a></strong>
+          <strong>
+            <a href="https://synthrogue.netlify.com">Synthrogue</a>
+            <em>(<a href="https://github.com/atamocius/synthrogue">source</a>)</em>
+          </strong>
         </th>
       </tr>
     </thead>
