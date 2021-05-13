@@ -8,13 +8,13 @@ I'm a full-stack software engineer working on enterprise systems. In my spare ti
       <tr>
         <th>
           <strong>
-            <a href="https://memorya.vercel.app">Memorya</a>
+            🧠 <a href="https://memorya.vercel.app">Memorya</a>
             <em>(<a href="https://github.com/atamocius/memorya">source</a>)</em>
           </strong>
         </th>
         <th>
           <strong>
-            <a href="https://burgergurgler.vercel.app">burgerGURGLER</a>
+            🍔 <a href="https://burgergurgler.vercel.app">burgerGURGLER</a>
             <em>(<a href="https://github.com/atamocius/burger-gurgler">source</a>)</em>
           </strong>
         </th>
@@ -49,13 +49,13 @@ I'm a full-stack software engineer working on enterprise systems. In my spare ti
       <tr>
         <th>
           <strong>
-            Flutterstein 3D
+            🔫 Flutterstein 3D
             <em>(<a href="https://github.com/atamocius/flutterstein-3d">source</a>)</em>
           </strong>
         </th>
         <th>
           <strong>
-            <a href="https://synthrogue.netlify.com">Synthrogue</a>
+            🤖 <a href="https://synthrogue.netlify.com">Synthrogue</a>
             <em>(<a href="https://github.com/atamocius/synthrogue">source</a>)</em>
           </strong>
         </th>
